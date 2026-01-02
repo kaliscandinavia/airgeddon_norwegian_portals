@@ -1,7 +1,7 @@
 # airgeddon_portals på norsk / norwegian.
 - Asus, Cisco, D-Link, TP-Link, Zyxel og Google-portaler på norsk.
   Du finner disse på engelsk i mine repositories.
-  git clone og copy-past til     airgeddon/plugins/customporals
+  git clone og copy-past til     airgeddon/plugins/customportals
   Kred'n går til xpz3 & OscarAkaElvis for inspirasjon og  kode-fix'et som gjør det mulig.
   Finn alle andre portaler her;
   
